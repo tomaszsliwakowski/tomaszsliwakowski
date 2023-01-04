@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Reakt**
 
-- 👨‍💻 All of my projects are available at [[portfolio](https://github.com/T0K3M/portfolio.git)](portfolio)
+- 👨‍💻 All of my projects are available at [(https://github.com/T0K3M/portfolio.git)]
 
 - 📫 How to reach me **tomek08082002@gmail.com**
 
