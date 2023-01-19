@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Reakt , TypeScript**
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
-
 - 📫 How to reach me **tomek08082002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
