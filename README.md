@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t0k3m&label=Profile%20views&color=0e75b6&style=flat" alt="t0k3m" /> </p>
 
 - 🌱 I’m currently learning **Reakt , TypeScript , Node JS**
+- In future **C# , .net**
 
 - 📫 How to reach me **tomek08082002@gmail.com**
 
